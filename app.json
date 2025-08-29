@@ -8,6 +8,8 @@
     "scheme": "multitenantecommerceapp",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
+
+    "devClient": true,
     "ios": {
       "supportsTablet": true,
       "bundleIdentifier": "com.amberdots.MultiTenanteCommerceApp"
