@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Multi-Tenant-eCommerce-App",
-    "slug": "Multi-Tenant-eCommerce-App",
+    "slug": "multi-tenant-ecommerce-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -39,6 +39,17 @@
     ],
     "experiments": {
       "typedRoutes": true
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "7c69f980-3c22-486f-9f5d-389de9a18745"
+      }
+    },
+    "owner": "amberdots",
+    "runtimeVersion": "1.0.0",
+    "updates": {
+      "url": "https://u.expo.dev/7c69f980-3c22-486f-9f5d-389de9a18745"
     }
   }
 }
